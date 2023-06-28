@@ -1,5 +1,5 @@
 
-const botToken = '6292121677:AAEudyLAH2u5OGOQc_R3sy776vENQ3fiNH0';
+const botToken = 'your bot token';
 const TelegramBot = require('node-telegram-bot-api');
 const QRCode = require('qrcode');
 const fs = require('fs');
