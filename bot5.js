@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 const QRCode = require('qrcode');
 const fs = require('fs');
-const botToken = '6292121677:AAEudyLAH2u5OGOQc_R3sy776vENQ3fiNH0';
+const botToken = 'bot token';
 // Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
 const bot = new TelegramBot(botToken, { polling: true });
 
